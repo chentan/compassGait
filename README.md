@@ -1,4 +1,3 @@
-# compass_gait
 This repository contains two folders: slipping_sim and gait_optimization. All codes run in Matlab.
 
 # Folder slipping_sim 
