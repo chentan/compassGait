@@ -12,7 +12,7 @@ This repository contains two folders: slipping_sim and gait_optimization. All co
 
 2. Run the main.m function in the folder to start the program. 
 
-3. Output: Matlab will display the solution process when it is searching for the optimal gait. A file exp.txt will be generated after running the program. This file record the history of the gait parameters, speed, and cost of transport (CoT) during the optimization process.
+3. Output: Matlab will display the solution process when it is searching for the optimal gait. A file exp.txt will be generated after running the program. This file records a history of the gait parameters, speed, and cost of transport (CoT) during the optimization process.
  
 Author contact information:
 Tan Chen tchen8@nd.edu
